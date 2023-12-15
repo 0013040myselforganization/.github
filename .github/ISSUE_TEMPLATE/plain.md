@@ -1,8 +1,10 @@
 ---
-name: pain issue template
-about: ''
+name: Plain issue template
+about: Describe this issue template's purpose here.
 title: ''
 labels: ''
 assignees: ''
 
 ---
+
+
