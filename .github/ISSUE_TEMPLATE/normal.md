@@ -7,21 +7,11 @@ assignees: ''
 
 ---
 
-### Is there an existing issue for this?
+### 概要
 
-- [X] I have searched the existing issues
+### 詳細
 
-### Current Behavior
-
-aaa
-
-### Expected Behavior
-
-bbb
-
-### Steps To Reproduce
-
-ccc
+### その他
 
 ### Environment
 
@@ -30,8 +20,3 @@ ccc
 - Node:222
 - npm:333
 ```
-
-
-### Anything else?
-
-ddd
