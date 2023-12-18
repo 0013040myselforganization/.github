@@ -1,31 +1,25 @@
 ---
-name: Normal report
-about: Create a report to help us improve
-title: ''
+name: Normal issue template
+about: ベースとするテンプレート案
+title: "[labelname] <title>"
 labels: ''
 assignees: ''
+
 ---
 
 ### 概要
-```markdown
-
+```
+概要
 ```
 
 ### 詳細
-```markdown
-
+```
+詳細
 ```
 
-### 親タスク
+### タスクリスト
+- [ ] task1
+- [ ] task2
 
-### アクションリスト
-```markdown
-- :
-- :
-- :
-```
-
-### 関連資料
-```markdown
-
-```
+### 関連資料リンク
+[title](url)
