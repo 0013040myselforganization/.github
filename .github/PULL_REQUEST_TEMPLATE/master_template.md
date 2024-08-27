@@ -1,6 +1,4 @@
-master_template.md
-
-## やったこと（反映内容リスト）
+## やったこと（master_template.md）
 
 * このプルリクで何をしたのか？
 
