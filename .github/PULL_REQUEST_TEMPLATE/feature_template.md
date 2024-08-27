@@ -1,6 +1,4 @@
-feature_template.md
-
-## やったこと
+## やったこと(feature_template.md)
 
 * このプルリクで何をしたのか？
 
